@@ -9,6 +9,7 @@
 			<option value="+">+</option>
 			<option value="-">-</option>
 			<option value="*">*</option>
+			<option value="/">/</option>
 		</select>
 		<input type="text" name="x2">
 		<input type="submit" name="Посчитать">
