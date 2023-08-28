@@ -23,6 +23,9 @@
 		case '-':
 			$result = $x1 - $x2;
 			break;
+		case '*':
+			$result = $x1 * $x2;
+			break;
 		default:
 			return 'Операция не поддерживается.';
 	}
